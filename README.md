@@ -1,4 +1,4 @@
-<a href="https://github.com/nivelthe/nivel-md"><img src="https://files.catbox.moe/07dmp1.jpg" alt="NIVEL-MD" border="0" /></a>### (NIVEL-MD)
+<a href="https://github.com/nivelthe/nivel-md"><img src="https://files.catbox.moe/j9ole3.jpg" alt="NIVEL-MD" border="0" /></a>### (NIVEL-MD)
                   
 ### Note
 - when deploying via panel always edit your variables in set.env 
@@ -17,4 +17,4 @@
 ### this site is considered as a option b everything you need on bot is in this site
 [what'app group](https://chat.whatsapp.com/LVyBgLC4hze97HEXfXN5Mh?mode=wwt)
    ## 🗿
-- Updates will be synced remotically .
+- Updates will be synced remotically
